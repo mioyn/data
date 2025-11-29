@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+501,Headphones 1,Electronics,340.24
+502,Tennis Racket 2,Sports,143.96
+503,Mixer 3,Books,54.92
+504,Tennis Racket 4,Home,124.23
+505,Vacuum Cleaner 5,Home,165.21
+506,Laptop 6,Kitchen,165.09
+507,Camera 7,Home,419.05
+508,Novel 8,Sports,156.28
+509,Headphones 9,Books,259.48
+510,Vacuum Cleaner 10,Home,130.88
+511,Smartwatch 11,Electronics,456.26
+512,Novel 12,Kitchen,318.15
+513,Laptop 13,Sports,426.4
+514,Mixer 14,Sports,279.24
+515,Novel 15,Kitchen,212.48
+516,Tennis Racket 16,Sports,463.41
+517,Novel 17,Electronics,158.77
+518,Phone 18,Books,355.25
+519,Smartwatch 19,Kitchen,91.74
+520,Headphones 20,Home,45.79
+521,Laptop 21,Sports,134.42
+522,Laptop 22,Sports,68.65
+523,Headphones 23,Home,104.62
+524,Headphones 24,Kitchen,72.61
+525,Vacuum Cleaner 25,Sports,41.93
+526,Camera 26,Kitchen,438.17
+527,Smartwatch 27,Books,323.7
+528,Smartwatch 28,Books,183.76
+529,Novel 29,Books,413.2
+530,Novel 30,Sports,42.82
+531,Blender 31,Electronics,344.85
+532,Phone 32,Sports,276.18
+533,Smartwatch 33,Home,439.83
+534,Laptop 34,Kitchen,231.03
+535,Vacuum Cleaner 35,Home,294.9
+536,Blender 36,Sports,371.64
+537,Vacuum Cleaner 37,Electronics,424.65
+538,Laptop 38,Sports,356.38
+539,Smartwatch 39,Electronics,471.43
+540,Smartwatch 40,Sports,442.9
+541,Smartwatch 41,Sports,91.21
+542,Blender 42,Sports,285.61
+543,Smartwatch 43,Sports,471.68
+544,Vacuum Cleaner 44,Books,81.45
+545,Tennis Racket 45,Sports,62.0
+546,Mixer 46,Sports,425.46
+547,Novel 47,Home,343.14
+548,Tennis Racket 48,Electronics,154.69
+549,Phone 49,Electronics,132.86
+550,Headphones 50,Home,376.59
